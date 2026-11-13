@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kuyric64-spec.github.io/symet-art-studio/sitemap.xml
