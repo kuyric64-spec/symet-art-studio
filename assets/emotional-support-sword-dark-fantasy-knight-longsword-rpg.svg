@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#1e2430"/>
+      <stop offset="100%" stop-color="#0d1017"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="url(#bg)"/>
+  <rect x="44" y="44" width="912" height="912" fill="none" stroke="#c6a972" stroke-width="3" opacity="0.75"/>
+  <rect x="60" y="60" width="880" height="880" fill="none" stroke="#c6a972" stroke-width="1" opacity="0.35"/>
+  <text x="500" y="160" text-anchor="middle" fill="#c6a972" font-family="Georgia, serif" font-size="22" letter-spacing="6">SYMET ART STUDIO • ARCHIVAL EDITION</text>
+  <line x1="320" y1="195" x2="680" y2="195" stroke="#c6a972" stroke-width="1.5" opacity="0.5"/>
+  <text x="500" y="310" text-anchor="middle" fill="#9fb0c7" font-family="monospace" font-size="22" letter-spacing="3">DARK FANTASY &AMP; TABLETOP RPG</text>
+  <text x="500" y="440" text-anchor="middle" fill="#f4efe6" font-family="Georgia, serif" font-size="38" font-weight="bold">Emotional Support Sword</text>
+<text x="500" y="494" text-anchor="middle" fill="#f4efe6" font-family="Georgia, serif" font-size="38" font-weight="bold">Dark Fantasy Knight Arming</text>
+<text x="500" y="548" text-anchor="middle" fill="#f4efe6" font-family="Georgia, serif" font-size="38" font-weight="bold">Longsword RPG Shirt</text>
+
+  <rect x="310" y="660" width="380" height="58" rx="6" fill="#c6a972" opacity="0.15" stroke="#c6a972" stroke-width="1.5"/>
+  <text x="500" y="697" text-anchor="middle" fill="#e6cfa3" font-family="sans-serif" font-size="22" font-weight="bold" letter-spacing="2">300 DPI DTG • BLACK EDITION</text>
+  <text x="500" y="870" text-anchor="middle" fill="#7d8ca3" font-family="monospace" font-size="18" letter-spacing="2">CATALOG ID: TP-20261109-017 • SYMET STUDIO</text>
+</svg>
