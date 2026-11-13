@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-11-13T20:58:37.854356+00:00",
+  "repo_dir": "C:\\Users\\ricky\\symet-art-studio",
+  "live_base_url": "https://kuyric64-spec.github.io/symet-art-studio",
+  "total_product_pages": 32,
+  "total_gift_guide_pages": 5,
+  "total_sitemap_urls": 38,
+  "sample_product_urls": [
+    "https://kuyric64-spec.github.io/symet-art-studio/products/memento-mori-carpe-diem-vintage-skull-hourglass-st.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/products/schrodingers-cat-dead-and-alive-quantum-physics-bo.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/products/retro-japanese-ramen-cat-ukiyo-e-woodblock-wave-no.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/products/vintage-tarot-card-the-moon-celestial-moth-luna-oc.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/products/vintage-botanical-mushrooms-fungi-mycology-forager.html"
+  ],
+  "gift_guide_urls": [
+    "https://kuyric64-spec.github.io/symet-art-studio/guides/best-vintage-botanical-naturalist-gifts-2026.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/guides/dark-academia-bookish-gifts-for-readers-2026.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/guides/tabletop-rpg-dnd-dice-goblin-shirts-gifts-2026.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/guides/retro-sci-tech-linux-developer-astronomy-gifts-2026.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/guides/goblincore-mycology-forager-cryptid-gifts-2026.html"
+  ],
+  "git_status": {
+    "committed": false,
+    "pushed": false,
+    "output": "Command '['git', 'commit', '-m', 'feat(seo): generate 32+ Product Rich Pin pages & 5 Q4 Gift Guides']' returned non-zero exit status 128."
+  }
+}
