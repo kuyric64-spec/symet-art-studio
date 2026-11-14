@@ -1,16 +1,17 @@
 {
-  "timestamp": "2026-11-13T20:58:37.854356+00:00",
+  "timestamp": "2026-11-14T08:14:09.970773+00:00",
+  "version": "2.2-omnipod-synced",
   "repo_dir": "C:\\Users\\ricky\\symet-art-studio",
   "live_base_url": "https://kuyric64-spec.github.io/symet-art-studio",
   "total_product_pages": 32,
   "total_gift_guide_pages": 5,
   "total_sitemap_urls": 38,
   "sample_product_urls": [
-    "https://kuyric64-spec.github.io/symet-art-studio/products/memento-mori-carpe-diem-vintage-skull-hourglass-st.html",
-    "https://kuyric64-spec.github.io/symet-art-studio/products/schrodingers-cat-dead-and-alive-quantum-physics-bo.html",
-    "https://kuyric64-spec.github.io/symet-art-studio/products/retro-japanese-ramen-cat-ukiyo-e-woodblock-wave-no.html",
-    "https://kuyric64-spec.github.io/symet-art-studio/products/vintage-tarot-card-the-moon-celestial-moth-luna-oc.html",
-    "https://kuyric64-spec.github.io/symet-art-studio/products/vintage-botanical-mushrooms-fungi-mycology-forager.html"
+    "https://kuyric64-spec.github.io/symet-art-studio/products/possum-playing-banjo-vintage-appalachian-folk-tras.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/products/vintage-botanical-mushroom-mycology-field-guide.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/products/retro-server-rack-homelab-sysadmin-blueprint.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/products/stay-trashy-retro-vintage-raccoon-trash-panda.html",
+    "https://kuyric64-spec.github.io/symet-art-studio/products/point-pleasant-mothman-vintage-national-park-crypt.html"
   ],
   "gift_guide_urls": [
     "https://kuyric64-spec.github.io/symet-art-studio/guides/best-vintage-botanical-naturalist-gifts-2026.html",
@@ -20,8 +21,8 @@
     "https://kuyric64-spec.github.io/symet-art-studio/guides/goblincore-mycology-forager-cryptid-gifts-2026.html"
   ],
   "git_status": {
-    "committed": false,
+    "committed": true,
     "pushed": false,
-    "output": "Command '['git', 'commit', '-m', 'feat(seo): generate 32+ Product Rich Pin pages & 5 Q4 Gift Guides']' returned non-zero exit status 128."
+    "output": "Committed locally."
   }
 }
