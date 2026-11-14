@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T20:47:31.106667+00:00",
+  "timestamp": "2026-11-14T21:27:57.931676+00:00",
   "version": "2.2-omnipod-synced",
   "repo_dir": "C:\\Users\\ricky\\symet-art-studio",
   "live_base_url": "https://kuyric64-spec.github.io/symet-art-studio",
@@ -23,6 +23,6 @@
   "git_status": {
     "committed": true,
     "pushed": false,
-    "output": "remote: Permission to kuyric64-spec/symet-art-studio.git denied to rickymulya.\nfatal: unable to access 'https://github.com/kuyric64-spec/symet-art-studio.git/': The requested URL returned error: 403"
+    "output": "fatal: User cancelled dialog.\nerror: cannot spawn /mingw64/bin/git-askpass.exe: No such file or directory\nbash: line 1: /dev/tty: No such device or address\nerror: failed to execute prompt script (exit code 1)\nfatal: could not read Username for 'https://github.com': No such file or directory"
   }
 }
