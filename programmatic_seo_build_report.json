@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-14T08:14:09.970773+00:00",
+  "timestamp": "2026-11-14T20:47:31.106667+00:00",
   "version": "2.2-omnipod-synced",
   "repo_dir": "C:\\Users\\ricky\\symet-art-studio",
   "live_base_url": "https://kuyric64-spec.github.io/symet-art-studio",
-  "total_product_pages": 32,
+  "total_product_pages": 37,
   "total_gift_guide_pages": 5,
-  "total_sitemap_urls": 38,
+  "total_sitemap_urls": 43,
   "sample_product_urls": [
     "https://kuyric64-spec.github.io/symet-art-studio/products/possum-playing-banjo-vintage-appalachian-folk-tras.html",
     "https://kuyric64-spec.github.io/symet-art-studio/products/vintage-botanical-mushroom-mycology-field-guide.html",
@@ -23,6 +23,6 @@
   "git_status": {
     "committed": true,
     "pushed": false,
-    "output": "Committed locally."
+    "output": "remote: Permission to kuyric64-spec/symet-art-studio.git denied to rickymulya.\nfatal: unable to access 'https://github.com/kuyric64-spec/symet-art-studio.git/': The requested URL returned error: 403"
   }
 }
