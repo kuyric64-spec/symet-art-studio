@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-11-14T21:30:38.889809+00:00",
+  "timestamp": "2026-11-14T21:36:58.203914+00:00",
   "version": "2.2-omnipod-synced",
   "repo_dir": "C:\\Users\\ricky\\symet-art-studio",
   "live_base_url": "https://kuyric64-spec.github.io/symet-art-studio",
-  "total_product_pages": 37,
+  "total_product_pages": 32,
   "total_gift_guide_pages": 5,
-  "total_sitemap_urls": 69,
+  "total_sitemap_urls": 64,
   "sample_product_urls": [
     "https://kuyric64-spec.github.io/symet-art-studio/products/possum-playing-banjo-vintage-appalachian-folk-tras.html",
     "https://kuyric64-spec.github.io/symet-art-studio/products/vintage-botanical-mushroom-mycology-field-guide.html",
@@ -23,6 +23,6 @@
   "git_status": {
     "committed": true,
     "pushed": true,
-    "output": "branch 'main' set up to track 'origin/main'.\n\nTo https://github.com/kuyric64-spec/symet-art-studio.git\n + 64898f3...5c23774 main -> main (forced update)"
+    "output": "branch 'main' set up to track 'origin/main'.\n\nTo https://github.com/kuyric64-spec/symet-art-studio.git\n   5c23774..9b3731b  main -> main"
   }
 }
